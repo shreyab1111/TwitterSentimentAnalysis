@@ -4,8 +4,8 @@ from tweepy import OAuthHandler
 from textblob import TextBlob 
 
 class TwitterClient(object): 
-    ''' 
-    Generic Twitter Class for sentiment analysis. 
+    '''  
+    Generic Twitter Class for sentiment analysis. basic
     '''
     def __init__(self): 
         ''' 
